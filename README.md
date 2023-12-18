@@ -31,3 +31,5 @@ Project / package.json
 3. Run the android emulator or on an android device.
 
 NOTE: Do not use the web browser as the searchable dropdown and notification will not work on the browser.
+
+App demostration: https://www.youtube.com/watch?v=oYDMeVnEGr8
